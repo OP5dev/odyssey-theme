@@ -1,28 +1,8 @@
-<p align="center">
-  <img src="assets/gh-banner.png" alt="Odyssey Theme Banner">
-</p>
-
-<br/>
-<div align="center">
-  <a href="https://twitter.com/jaydanurwin">
-  <img src="assets/twitter-badge.svg" alt="Follow Jaydan Urwin on Twitter"/>
-</a>
-  <a href="https://sapling.lemonsqueezy.com/checkout/buy/9b78751f-6382-442d-ac99-32c2318b70a0">
-    <img src="assets/sponsor-badge.svg" alt="Sponsor This Repo" />
-  </a>
-</div>
-<br/>
-
 # Odyssey Theme
 
 Odyssey Theme is a modern theme/starter for a business or startup's marketing website. It provides landing page examples, a full-featured blog, contact forms, and more. It is fully themeable to match your business' branding and style. It even includes a theme switcher component to show how easily the entire style of the site can be changed with only a few lines of CSS.
 
 ## Features
-
-<p align="center">
-  <img src="assets/lh-screenshot.png" alt="Screenshot of perfect score in Lighthouse benchmark">
-</p>
-
 
 - ✅ **A perfect score in Lighthouse**
 - ✅ **Blazing fast performance thanks to Astro 🚀**
@@ -33,7 +13,6 @@ Odyssey Theme is a modern theme/starter for a business or startup's marketing we
 - ✅ **Performant Local Fonts Setup**
 - ✅ **Contact Forms Setup for Netlify, Formspree, Formspark, etc.**
 - ✅ **A package of ready-to-use UI components**
-
 
 ## Demo
 
@@ -60,12 +39,25 @@ Feel free to deploy and host your site on your favorite static hosting service s
 
 Astro has [an in-depth guide](https://docs.astro.build/en/guides/deploy/) on how to deploy an Astro project to each service.
 
-## Sponsor
+</br>
 
-If you find this theme useful, please consider donating to support the continued development of it with the link below
+## Changelog
 
-[Donate to Odyssey Theme](https://sapling.lemonsqueezy.com/checkout/buy/9b78751f-6382-442d-ac99-32c2318b70a0)
+View [all notable changes](https://github.com/op5dev/odyssey-theme/releases "Releases.") to this project in [Keep a Changelog](https://keepachangelog.com "Keep a Changelog.") format, which adheres to [Semantic Versioning](https://semver.org "Semantic Versioning.").
 
-## Support
+> [!TIP]
+>
+> All forms of **contribution are very welcome** and deeply appreciated for fostering open-source projects.
+>
+> - [Create a PR](https://github.com/op5dev/odyssey-theme/pulls "Create a pull request.") to contribute changes you'd like to see.
+> - [Raise an issue](https://github.com/op5dev/odyssey-theme/issues "Raise an issue.") to propose changes or report unexpected behavior.
+> - [Open a discussion](https://github.com/op5dev/odyssey-theme/discussions "Open a discussion.") to discuss broader topics or questions.
+> - [Become a stargazer](https://github.com/op5dev/odyssey-theme/stargazers "Become a stargazer.") if you find this project useful.
 
-Please feel free to post issues or submit PRs to this repo and we will do our best to respond in a timely manner, keeping in mind this template is offered for free as is on GitHub.
+</br>
+
+## License
+
+- This project is licensed under the **permissive** [Apache License 2.0](LICENSE "Apache License 2.0.").
+- All works herein are my own, shared of my own volition, and [contributors](https://github.com/op5dev/odyssey-theme/graphs/contributors "Contributors.").
+- Copyleft 2016-present [Rishav Dhar](https://rdhar.dev "Rishav Dhar's profile.") — All wrongs reserved.
